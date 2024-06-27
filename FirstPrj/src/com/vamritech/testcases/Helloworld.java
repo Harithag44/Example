@@ -1,6 +1,5 @@
 package com.vamritech.testcases;
 
-import java.util.Random;
 
 public class Helloworld {
 
